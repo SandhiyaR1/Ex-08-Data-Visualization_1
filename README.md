@@ -19,7 +19,7 @@ Apply data visualization techniques to identify the patterns of the data.
 
 # CODE
 ### Developed by: Sandhiya R 
-### Register number:21222230129
+### Register number:212222230129
 ```
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -105,7 +105,8 @@ sns.heatmap(tips.corr(),annot=True)
 ![image](https://github.com/SandhiyaR1/Ex-08-Data-Visualization_1/assets/113497571/68157a59-dc3d-4809-9c8a-875153b001c2)
 ![image](https://github.com/SandhiyaR1/Ex-08-Data-Visualization_1/assets/113497571/b80d5848-dccc-4068-a06c-ef3bcbb7dea8)
 ![image](https://github.com/SandhiyaR1/Ex-08-Data-Visualization_1/assets/113497571/280e9551-6bc3-4474-985b-87636575cbf6)
-![Uploading image.png…]()
+
+![image](https://github.com/SandhiyaR1/Ex-08-Data-Visualization_1/assets/113497571/737c104c-3112-4057-879d-3f4ad003aead)
 
 ![image](https://github.com/SandhiyaR1/Ex-08-Data-Visualization_1/assets/113497571/eb04fc8c-a521-4c9e-b4e1-07282ee6ba56)
 # RESULT:
